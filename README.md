@@ -19,4 +19,4 @@ Fret not, it means we need to make it executable. This is fairly easy to do. Typ
 As for the rest, please consult the documentation.
 
 ## I found something that needs to be improved in your documentation
-Then I will be happy to do so, you can leave a comment with a short description what you wish for me to improve and I will take care of it ASAP.
+Then I will be happy to do so, you can leave a comment in the comment seaction of the README.md with a short description what you wish for me to improve and I will take care of it ASAP.
