@@ -1,6 +1,9 @@
 # Ubuntu Basic Cybersecurity
 This repo contains Documentations on how to setup Linux Ubuntu, including the necessary and optional system hardening advices for a more secure experience.
 
+## Important update (March 8th, 2025)
+A bug has been discovered regarding changing the Hostname. Brave Browser is bound to lock you out or deny use of the Browser. The reason is the Brave Browser creating a SingletonLock file which is tied to the Hostname. The documentation has been updated accordingly providing a solution. Should this ever occur please consult Chapter 5. Apps installieren, subchapter 5.3 Brave Browser. Please read the red color in bold fonts included warning carefully and follow it step by step.
+
 ## What is being provided?
 A detailed Documentation about how to harden Ubuntu Linux distros in basic level. The documentation has two types of instructions. A shortened version and a very detailed followed after that. The instructions are divided into two categories: Mandatory and Optional Settings
 
